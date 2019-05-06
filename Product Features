@@ -1,1 +1,62 @@
+Details on Product Contexts/Features:
 
+
+Goal        To build and host a SaaS App for Executing Equipment Maintenance Service
+
+Primary User Contexts
+        Plant - Integrated with Any ERP
+        OEM - Integrated with Any ERP
+        Maintenance Service Provider - Integrated ERP/Standalone Cloud App
+
+Functionality
+1        Work Order Process (CRUDL) - Work-Flow and Transactions
+2        Allocation/Return of Material and Planned and Actual Labour
+3        Work Order Status Monitoring & Reporting
+4        Easy to understand BI Reports/Dashboard On KPI for Maintenance Services
+5        Invoice Generation
+6        SMS & E-mail
+
+Typical Features
+        Online Work Order Page
+        Automated Task Notifications
+        Basic Task List Manager
+        Task Status Updates
+        Unlimited Task Types
+        Notes History
+        Easy to Search Filter
+        Basic Reporting
+        Customizable Request Page
+        Reporting & Dashboards
+        Unlimited Users
+        Multi-Facilities Available
+        Mobile App Access (unlimited users)
+        Customer Support
+        Advanced Work Orders
+        Areas (allows for multi-facilities)
+        Notification by Task Type
+        Task Assignment
+        Task Priority Settings
+        Task Duration Monitoring
+        Audit Logs
+        Document Management
+        Vendor Management
+        Preventive Maintenance
+        PM Library
+        Asset Database List
+        Asset Expense Tracking
+        Asset Forecasting
+        Asset Depreciation
+        Parts & Inventory
+        Housekeeping Module
+        Fleet Management
+        Customized Reporting
+        Capital Planning
+        Custom Fillable Forms
+        Transaction and Expenses
+        Warranty & Life Expectancy
+        Asset Barcode Scanning
+        Capital Planning
+        Extra Document Space Storage
+        Project Management
+        Temperature Sensor Integration
+        All Future Upgrades
